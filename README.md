@@ -114,7 +114,7 @@ Both repos are organized by domain. The folders that matter:
 **Product level:** a real expiry scheduler; the ops/adjudicator console; a client-identity conflict-check; the originating firm flow where they can upload their cases and define the contracts; contract disputing; payments flow.
 **Technical level**: websockets/SSE instead of polling; codegen types from the backend directly; I would revise the need of a relational database for this type of problem.
 
-##7. Final words
+## 7. Final words
 I've cut some corners to fit a 6 hours challenge time also, I could've spent more and more time with this but I suppose it wouldn't be fair with other applicants if I'd spent a lot more hours, my idea is also to show which corners I've cut so you guys have a real impression of my work and my thinking.
 Overall I've dedicated aproximatelly 7 hours to this, started by creating the ERD diagram, then the state machine, went back and forth with it, when I had a hood clear undestanding of the project I've created a backend and frontend folder structure and then built using claude and codex. After that iterated the code and cleaned up and polished for and hour and a half and then manual touch of code for another 2 hours or so...
 
